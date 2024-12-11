@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1733941977610" clover="3.2.0">
-  <project timestamp="1733941977610" name="All files">
-    <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0" elements="6" coveredelements="6" complexity="0" loc="6" ncloc="6" packages="1" files="1" classes="1"/>
-    <file name="01-template.ts" path="E:\cursos\Node\NodeJS De cero a experto\02-node-ts-bases-testing\src\js-foundation\01-template.ts">
-      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+<coverage generated="1733942658875" clover="3.2.0">
+  <project timestamp="1733942658875" name="All files">
+    <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0" elements="11" coveredelements="11" complexity="0" loc="11" ncloc="11" packages="1" files="1" classes="1"/>
+    <file name="02-destructuring.ts" path="E:\cursos\Node\NodeJS De cero a experto\02-node-ts-bases-testing\src\js-foundation\02-destructuring.ts">
+      <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       <line num="1" count="1" type="stmt"/>
       <line num="2" count="1" type="stmt"/>
       <line num="3" count="1" type="stmt"/>
       <line num="4" count="1" type="stmt"/>
       <line num="5" count="1" type="stmt"/>
       <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
