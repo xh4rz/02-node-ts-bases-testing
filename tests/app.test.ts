@@ -1,5 +1,7 @@
 describe('App', () => {
 	it('should be true', () => {
-		expect(true).toBe(true);
+		// 1. Arrange
+		// 2. Act
+		// 3. Assert
 	});
 });
